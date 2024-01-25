@@ -2704,10 +2704,9 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width: 600px) {
     .s-works {
-        padding-bottom: 12rem;
     }
     .s-works .intro-wrap {
-        padding: 12rem 0 25.2rem;
+        padding: 10rem 0 10rem;
     }
     .works-content {
         margin-top: -25.2rem;
@@ -3388,7 +3387,7 @@ footer .row {
     border: none;
     width: 85px;
     height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
+    background: url("../images/logo-no-background.png") no-repeat center;
     background-size: 85px 28px;
     font: 0/0 a;
     text-shadow: none;

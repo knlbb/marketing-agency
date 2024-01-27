@@ -1447,7 +1447,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     margin: 0;
     padding: 0;
-    left: 40px;
+    left: 100px;
     top: 50%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
@@ -2937,7 +2937,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-image: url("../images/dark-cu.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 15rem;
@@ -3386,9 +3386,9 @@ footer .row {
     outline: 0;
     border: none;
     width: 85px;
-    height: 28px;
-    background: url("../images/logo-no-background.png") no-repeat center;
-    background-size: 85px 28px;
+    /* height: 28px; */
+    /* background: url("../images/logo-w.png") no-repeat content-box; */
+    /* background-size: 85px 28px; */
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
